@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Korona İstatistik</string>
+    <string name="Total_Cases">Toplam Vaka Sayısı</string>
+    <string name="recovered">"İyileşen Sayısı "</string>
+    <string name="Deaths">Vefat Sayısı</string>
+    <string name="Active">Hasta Sayısı</string>
+    <string name="GLOBAL_STATS">Küresel İstatistikler</string>
+    <string name="Cases">Vaka Sayısı</string>
+    <string name="Critical">Ağır Hasta Sayısı</string>
+    <string name="Total_Deaths">Toplam Vefat Sayısı</string>
+    <string name="Affected_Countries">Ülke Seç</string>
+    <string name="Conutry">"Ülke "</string>
+    <string name="Today_Cases">Günlük Vaka Sayısı</string>
+    <string name="Today_Deaths">Günlük Vefat</string>
+    <string name="Search">Ara</string>
+    <string name="ulke_verileri">Ülke Verileri</string>
+    <string name="ana_sayfa">Ana Sayfa</string>
+    <string name="country_chance">Ülke Değiştir</string>
+    <string name="Affected_Countries2">Etklinen Ülkeler</string>
+</resources>

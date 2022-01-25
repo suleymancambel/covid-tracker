@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">احصائيات كورونا</string>
+    <string name="Total_Cases">العدد الإجمالي للحالات</string>
+    <string name="recovered">مريض شفي</string>
+    <string name="Deaths">عدد الوفيات</string>
+    <string name="Active">عدد المرضى</string>
+    <string name="GLOBAL_STATS">الإحصائيات العالمية</string>
+    <string name="Cases">عدد القضايا</string>
+    <string name="Critical">مرضى العناية المركزة</string>
+    <string name="Total_Deaths">مجموع الوفيات</string>
+    <string name="Affected_Countries">حدد الدولة</string>
+    <string name="Today_Cases">عدد القضايا يومية</string>
+    <string name="Today_Deaths">عدد الوفيات يومية</string>
+    <string name="Search">اتصلي</string>
+    <string name="ulke_verileri">بيانات الدولة</string>
+    <string name="ana_sayfa">الصفحة الرئيسية</string>
+    <string name="country_chance">تغيير الدولة</string>
+    <string name="Affected_Countries2">البلدان المتضررة</string>
+    <string name="Conutry">"  "</string>
+</resources>

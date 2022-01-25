@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Corona Statistics</string>
+    <string name="Total_Cases">Total Cases</string>
+    <string name="recovered">Recovered</string>
+    <string name="Deaths">Deaths</string>
+    <string name="Active">Active</string>
+    <string name="GLOBAL_STATS">GLOBAL STATS</string>
+    <string name="Cases">Cases</string>
+    <string name="Critical">Critical</string>
+    <string name="Total_Deaths">Total Deaths</string>
+    <string name="Affected_Countries">Select Country</string>
+    <string name="Conutry">Conutry</string>
+    <string name="Today_Cases">Today Cases</string>
+    <string name="Today_Deaths">Today Deaths</string>
+    <string name="Search">Search</string>
+    <string name="ulke_verileri">Country Data</string>
+    <string name="ana_sayfa">Home Page</string>
+    <string name="country_chance">Change Country</string>
+    <string name="Affected_Countries2">Affected Countries</string>
+</resources>
